@@ -2600,10 +2600,6 @@ https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MCTV.us" tvg-logo="https://i.imgur.com/VXbHin6.png" group-title="USA",MCTV
 https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX",Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="USA",Midpen Media Center Channel 26
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="EDUCACION",Midpen Media Center Channel 28
@@ -10926,56 +10922,6 @@ http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",龙岩综合 (540p)
 http://stream.lytv.net.cn/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Live Cams" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Live Cams
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos MILF" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos MILF
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Dick" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Dick
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Tits" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Tits
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Fetish" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Fetish
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Pornstar" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Pornstar
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Ass" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Ass
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Interracial" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Interracial
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Latina" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Latina
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos POV" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos POV
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Blowjob" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Blowjob
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Teen" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Teen
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Hardcore" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Hardcore
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Cuckold" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Cuckold
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Threesome" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Threesome
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Russian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Russian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Lesbian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Lesbian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Rough" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Rough
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Gangbang" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Gangbang
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Anal" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Anal
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Compilation" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Compilation
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Brunette" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Brunette
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Blonde" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Blonde
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Gay" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Gay
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Asian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Asian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/asian.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons S01 a S20 (720)" tvg-logo="https://1.bp.blogspot.com/-9koNjDb9IDM/XcsQ5aBgsGI/AAAAAAAAA08/zLihKJMYMGEva9FFypcgSzD1sBPSNXbCgCLcBGAsYHQ/s200/the%2Bsimpsons.png" group-title="CANALES 24/7",24/7 Los Simpsons T01 a T20 (720)
@@ -14891,57 +14837,6 @@ http://tvpremiumhd.club/lista-gratuita/183009/tv/live.php?id=63624
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Two & a Half Men " tvg-logo="https://1.bp.blogspot.com/-ZKAMhf-DP6c/X30u-FXO2ZI/AAAAAAAAB0M/s9zZChQ8XOg9PgsePVFZvj40iKMJPiVoQCLcBGAsYHQ/w200-h200/Two%2Band%2Ba%2Bhalf%2BUSA%2B%25F0%259F%2587%25B1%25F0%259F%2587%25B7.png" group-title="24/7 U.S.A",24/7 Two & a Half Men 
 http://tvpremiumhd.club/lista-gratuita/183009/tv/live.php?id=63629
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Live Cams" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Live Cams
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos MILF" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos MILF
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Dick" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Dick
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Tits" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Tits
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Fetish" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Fetish
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Pornstar" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Pornstar
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Big Ass" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Big Ass
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Interracial" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Interracial
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Latina" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Latina
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos POV" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos POV
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Blowjob" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Blowjob
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Teen" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Teen
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Hardcore" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Hardcore
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Cuckold" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Cuckold
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Threesome" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Threesome
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Russian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Russian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Lesbian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Lesbian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Rough" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Rough
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Gangbang" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Gangbang
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Anal" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Anal
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Compilation" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Compilation
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Brunette" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Brunette
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Blonde" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Blonde
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Gay" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Gay
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adultos Asian" tvg-language="English" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="XXX",TV Adultos Asian
-http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=cdn.adultiptv.net/asian.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",CONTRATA HOY TVPREMIUMHD.COM
 http://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg" group-title="VOD A LA CARTA",The Evil Within (2019)
@@ -16616,24 +16511,3 @@ http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/downlo
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png",Super Mario Bros. La pelicula
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/292/133/gratis-png-logo-athena-pegasus-seiya-saint-seiya-caballeros-del-zodiaco-hades-caballeros-del-zodiaco.png",24/7 Los Caballeros Del Zodiaco | Sagas (p)(1080)
-http://bit.ly/peliculas-m3u
-
-#EXTINF:-1 tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/521295.jpg",Mi Villano Favorito
-https://ia802305.us.archive.org/34/items/videotime-cine-latino/Mi%20villano%20favorito%201.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/090/21009000_2013052817374835.jpg",Mi Villano Favorito 2
-https://ia802305.us.archive.org/34/items/videotime-cine-latino/Mi%20villano%20favorito%202.mp4
-
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67706c0000da84398d2722feffdd85b02bbb05",Mi Villano Favorito 3
-https://ia902305.us.archive.org/34/items/videotime-cine-latino/Mi%20villano%20favorito%203.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_La_bella_durmiente_en_el_castillo_del_mal-711387675-large.jpg",Dragon ball la princesa durmiente del castillo del mal
-https://ia801401.us.archive.org/17/items/Dragon-Ball-La-Princesa-Durmiente-del-Castillo-del-Mal-1987/Dragon%20Ball%20La%20Princesa%20Durmiente%20del%20Castillo%20del%20Mal%20%281987%29.mp4
-
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/4/items/Coraje-2/__ia_thumb.jpg", Coraje
-https://ia801502.us.archive.org/4/items/Coraje-2/2x02%20-%20Randy%20el%20Robot.mp4
